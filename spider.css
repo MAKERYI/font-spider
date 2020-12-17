@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Luckiest Guy";
+    src: url("Luckiest-Guy.ttf");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  #fontCompress {
+    font-family: 'Luckiest Guy';
+  }
+  
